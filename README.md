@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ronit
 
 ## 🚀 About Me
-- 🌱 Currently learning **Java, DBMS, Machine Learning**
+- 🌱 Currently learning **Java, Web Development**
 - 💻 Building my **Web Development Portfolio**
-- 🔒 Exploring **Cybersecurity tools in Kali Linux**
-- 📚 Preparing for **technical exams & Coursera quizzes**
+- 🔒 Exploring **Computer Science Fundamentals**
+- 📚 Preparing for **technical exams & placements**
 - 🎯 Passionate about **LeetCode challenges & project-based learning**
 
 ---
@@ -43,6 +43,14 @@
 
 ---
 
+## 📌 Featured Projects
+
+- [🌐 Portfolio Website](https://github.com/ronitgupta138/portfolio)  
+- [📝 Blog Layout](https://github.com/ronitgupta138/blog-layout)  
+- [🎯 Landing Page](https://github.com/ronitgupta138/landing-page)  
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -62,5 +70,3 @@
 ## 👀 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronitgupta138&style=for-the-badge&color=blue" alt="Profile Views"/>
-</div>
