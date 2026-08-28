@@ -28,16 +28,31 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://readme-stats-eta.vercel.app/api?username=ronitgupta138&show_icons=true&theme=radical&hide_title=false&hide_rank=false" height="180" alt="GitHub Stats"/>
+  <img src="https://readme-stats-eta.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ronitgupta138&color=blue&style=for-the-badge" alt="Profile views"/>
 </div>
 
-<p align="center"><em>Note: github-readme-stats, streak-stats, and github-profile-trophy services are currently returning 5xx / 402 — temporarily removed rather than ship broken badges. Will restore when the upstream services recover.</em></p>
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/ronitgupta138" alt="GitHub Contribution Graph" width="100%"/>
+</div>
 
 ---
 
 ## 🏆 Achievements & Badges
 
-<p align="center"><em>Trophy widget currently returning 402 (Payment Required) on the upstream service — temporarily removed. Will restore when it recovers.</em></p>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=ronitgupta138&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
