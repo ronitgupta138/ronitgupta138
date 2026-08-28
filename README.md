@@ -43,7 +43,7 @@
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/ronitgupta138" alt="GitHub Contribution Graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/pacman/ronitgupta138" alt="GitHub Contribution Graph" width="100%"/>
 </div>
 
 ---
