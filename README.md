@@ -62,9 +62,3 @@
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
