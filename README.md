@@ -25,6 +25,14 @@
 
 ---
 
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/ronitgupta138" alt="GitHub Contribution Graph" width="100%"/>
+</div>
+
+---
+
 ## 📌 Featured Projects
 
 - [🏥 CHAINVISION — Cognizant NPN Hackathon](https://github.com/ronitgupta138/CHAINVISION)
