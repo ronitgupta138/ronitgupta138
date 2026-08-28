@@ -25,10 +25,25 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/ronitgupta138" alt="GitHub Contribution Graph" width="100%"/>
+  <img src="https://readme-stats-eta.vercel.app/api?username=ronitgupta138&show_icons=true&theme=radical&hide_title=false&hide_rank=false" height="180" alt="GitHub Stats"/>
+  <img src="https://readme-stats-eta.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronitgupta138&color=blue&style=for-the-badge" alt="Profile views"/>
+</div>
+
+---
+
+## 🏆 Achievements & Badges
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=ronitgupta138&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
