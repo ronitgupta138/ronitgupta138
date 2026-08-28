@@ -65,8 +65,8 @@ I code in **late-evening IST bursts on Wednesdays**. Not because I'm a night owl
 
 - 🛒 [**Amazon Clone**](https://github.com/ronitgupta138/amazonclone) — vanilla JS storefront with cart, filters, and Stripe-style checkout flow
 - 📝 [**Form Validation in HTML**](https://github.com/ronitgupta138/Form-Validation-In-HTML) — client-side validation patterns I use in every form
-- ☕ [**LeetCode solutions**](https://github.com/ronitgupta138/leetcode-solutions) — pushed automatically by my own setup script
-- 🤖 [**JARVIS Contribution Protocol**](https://github.com/ronitgupta138/JARVIS-Contribution-Protocol) — spec for an LLM-driven GitHub contribution agent
+- 🤖 [**JARVIS-Contribution-Protocol**](https://github.com/ronitgupta138/JARVIS-Contribution-Protocol) — early experiment in contribution tracking
+- 📦 Also: a private repo of LeetCode solutions, pushed by an automated script I wrote
 
 ---
 
