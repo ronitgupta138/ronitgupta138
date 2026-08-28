@@ -28,26 +28,24 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronitgupta138&show_icons=true&theme=radical&hide_title=false&hide_rank=false" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitgupta138&theme=radical" height="180" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=ronitgupta138&color=blue&style=for-the-badge" alt="Profile views"/>
 </div>
+
+<p align="center"><em>Note: github-readme-stats, streak-stats, and github-profile-trophy services are currently returning 5xx / 402 — temporarily removed rather than ship broken badges. Will restore when the upstream services recover.</em></p>
 
 ---
 
 ## 🏆 Achievements & Badges
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ronitgupta138&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
+<p align="center"><em>Trophy widget currently returning 402 (Payment Required) on the upstream service — temporarily removed. Will restore when it recovers.</em></p>
 
 ---
 
 ## 📌 Featured Projects
 
-- [🌐 Portfolio Website](https://github.com/ronitgupta138/portfolio)  
-- [📝 Blog Layout](https://github.com/ronitgupta138/blog-layout)  
-- [🎯 Landing Page](https://github.com/ronitgupta138/landing-page)  
+- [🏥 CHAINVISION — Cognizant NPN Hackathon](https://github.com/ronitgupta138/CHAINVISION)
+- [🛒 Amazon Clone](https://github.com/ronitgupta138/amazonclone)
+- [📝 Form Validation in HTML](https://github.com/ronitgupta138/Form-Validation-In-HTML)
 
 ---
 
