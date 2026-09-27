@@ -83,14 +83,15 @@ A selection of verified upstream contributions to core open-source projects:
 
 <div align="center">
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Real-Time Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronitgupta138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ronit's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+[![Profile Views](https://komarev.com/ghpvc/?username=ronitgupta138&color=00f2fe&style=flat-square&label=Profile+Views)](https://github.com/ronitgupta138)
+[![Followers](https://img.shields.io/github/followers/ronitgupta138?label=Followers&style=flat-square&color=00f2fe&logo=github)](https://github.com/ronitgupta138)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-14+-4facfe?style=flat-square&logo=github)](https://github.com/ronitgupta138?tab=repositories)
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ronitgupta138&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ronitgupta138&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
