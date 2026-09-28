@@ -18,25 +18,7 @@
 
 - 🎓 **Education:** CSBS (Computer Science & Business Systems) at **Netaji Subhash Engineering College (NSEC)**, Kolkata (2023–2027).
 - 💻 **Core Focus:** TypeScript / Node.js backend architectures, Linux desktop internals (C / GJS / GTK3), high-concurrency databases, and memory-efficient systems.
-- ⚡ **Open Source Contributor:** Active upstream contributor across the **Linux Mint** desktop ecosystem (`cinnamon`, `nemo`, `hypnotix`, `xed`, `mintstick`) and high-performance web frameworks (**`honojs/hono`**).
 - 🛠️ **Engineering Philosophy:** Write lean, production-verified code by hand; eliminate bloat, minimize idle memory, and master fundamental systems from first principles.
-
----
-
-### 🌐 Upstream Open Source Contributions
-
-A selection of verified upstream contributions to core open-source projects:
-
-| Project | Organization | Pull Request / Contribution | Impact |
-| :--- | :--- | :--- | :--- |
-| **Hono** | `honojs/hono` | [PR #5458](https://github.com/honojs/hono/pull/5458) | Fixed `TrieRouter` duplicate handler execution on literal `*` path segments |
-| **Hono** | `honojs/hono` | [PR #5457](https://github.com/honojs/hono/pull/5457) | Registered deterministic MSW error handler for unhandled `parseResponse` routes |
-| **Nemo** | `linuxmint/nemo` | [PR #3848](https://github.com/linuxmint/nemo/pull/3848) | Refactored loading spinner timeout and widget geometry magic numbers to named constants |
-| **Nemo** | `linuxmint/nemo` | [PR #3847](https://github.com/linuxmint/nemo/pull/3847) | Added keyboard mnemonic (`_Follow link...`) for single-key symlink navigation |
-| **Cinnamon** | `linuxmint/cinnamon` | [PR #14021](https://github.com/linuxmint/cinnamon/pull/14021) | Resolved modal grab leak in `PopupMenuManager.destroy()` preventing desktop input lockups |
-| **Hypnotix** | `linuxmint/hypnotix` | [PR #434](https://github.com/linuxmint/hypnotix/pull/434) | Atomic channel logo downloads with unique temp files and `GdkPixbuf` payload validation |
-| **Xed** | `linuxmint/xed` | [PR #760](https://github.com/linuxmint/xed/pull/760) | Explicitly pinned `GTK 3.0`, `GtkSource 4`, and `Xed 1.0` typelibs across Python plugins |
-| **MintStick** | `linuxmint/mintstick` | [PR #156](https://github.com/linuxmint/mintstick/pull/156) | Non-blocking async ISO verification, HKPS keyservers, and `-hwe` mirror resolution |
 
 ---
 
