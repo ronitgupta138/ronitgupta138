@@ -77,11 +77,11 @@ ronit@workstation:~$ aero doctor --summary
 
 ### 🔭 Current Engineering Focus
 
-| Domain | Active Workstream | Target Output |
+| Domain | Active Workstream | Focus & Target Output |
 | :--- | :--- | :--- |
-| **Operating Systems** | ⚡ [Aero Linux (1.0-Edge)](https://github.com/ronitgupta138/aero-linux) | Sub-350MB idle Wayland developer distro with dynamic zRAM & 1-click local LLM inference |
-| **Backend & Distributed** | 🚀 High-Concurrency POS Engine | Low-latency table booking, optimistic locking, and Redis caching |
-| **Algorithms & Systems** | 🧠 DSA Mastery in Java & C | First-principles memory layouts, pointer arithmetic, and algorithmic problem-solving |
+| **Operating Systems** | ⚡ **[Aero Linux](https://github.com/ronitgupta138/aero-linux)** | Sub-350MB idle Wayland developer distro with dynamic zRAM & 1-click local LLM inference |
+| **Backend & Systems** | 🚀 **Dine Luxe POS Engine** | High-concurrency table lifecycle, optimistic locking, and Redis caching |
+| **Algorithms** | 🧠 **DSA Mastery in Java** | First-principles memory layouts, pointer arithmetic, and algorithmic problem-solving |
 
 ---
 
@@ -97,18 +97,26 @@ ronit@workstation:~$ aero doctor --summary
 
 ### 📊 Real-Time GitHub Activity & Metrics
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ronitgupta138&color=00f2fe&style=flat-square&label=Profile+Views)](https://github.com/ronitgupta138)
-[![Followers](https://img.shields.io/github/followers/ronitgupta138?label=Followers&style=flat-square&color=00f2fe&logo=github)](https://github.com/ronitgupta138)
-[![Public Repos](https://img.shields.io/badge/Public_Repos-14+-4facfe?style=flat-square&logo=github)](https://github.com/ronitgupta138?tab=repositories)
+<a href="https://github.com/ronitgupta138">
+  <img src="https://komarev.com/ghpvc/?username=ronitgupta138&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</a>
+<a href="https://github.com/ronitgupta138">
+  <img src="https://img.shields.io/github/followers/ronitgupta138?label=Followers&style=flat-square&color=00f2fe&logo=github" alt="Followers" />
+</a>
+<a href="https://github.com/ronitgupta138?tab=repositories">
+  <img src="https://img.shields.io/badge/Public_Repos-14+-4facfe?style=flat-square&logo=github" alt="Public Repos" />
+</a>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ronitgupta138&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/ronitgupta138">
+  <img src="https://streak-stats.demolab.com/?user=ronitgupta138&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0e,100:00f2fe&height=100&section=footer" width="100%"/>
 
-<i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
+<p><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></p>
 
 </div>
