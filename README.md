@@ -37,6 +37,12 @@ ronit@workstation:~$ aero doctor --summary
 
 <div align="center">
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,python,c,java,postgres,redis,docker,linux,git,bash,html,css&theme=dark" alt="Tech Stack Icons" />
+</a>
+
+<br/><br/>
+
 #### 💻 Languages & Systems
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,6 +72,16 @@ ronit@workstation:~$ aero doctor --summary
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+### 🔭 Current Engineering Focus
+
+| Domain | Active Workstream | Target Output |
+| :--- | :--- | :--- |
+| **Operating Systems** | ⚡ [Aero Linux (1.0-Edge)](https://github.com/ronitgupta138/aero-linux) | Sub-350MB idle Wayland developer distro with dynamic zRAM & 1-click local LLM inference |
+| **Backend & Distributed** | 🚀 High-Concurrency POS Engine | Low-latency table booking, optimistic locking, and Redis caching |
+| **Algorithms & Systems** | 🧠 DSA Mastery in Java & C | First-principles memory layouts, pointer arithmetic, and algorithmic problem-solving |
 
 ---
 
