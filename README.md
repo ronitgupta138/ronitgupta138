@@ -1,9 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Ronit Gupta 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0e,100:00f2fe&height=210&section=header&text=Ronit%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Systems%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%"/>
 
-### **Full-Stack & Systems Software Engineer**
-*Building lean, high-performance backends, modern Linux desktop software, and distributed systems.*
+<a href="https://github.com/ronitgupta138">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+Full-Stack+%26+Systems+Software+Engineer;%F0%9F%9A%80+Building+Lean%2C+High-Performance+Backends;%F0%9F%A7%A0+Mastering+Memory%2C+Concurrency+%26+Linux+Internals;%F0%9F%92%BB+Writing+Clean+Code+by+Hand+from+First+Principles" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronitgupta138)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronitgupta138)
@@ -14,11 +17,19 @@
 
 ---
 
-### 🚀 About Me
+### ⚡ Live Workstation Snapshot
 
-- 🎓 **Education:** CSBS (Computer Science & Business Systems) at **Netaji Subhash Engineering College (NSEC)**, Kolkata (2023–2027).
-- 💻 **Core Focus:** TypeScript / Node.js backend architectures, Linux desktop internals (C / GJS / GTK3), high-concurrency databases, and memory-efficient systems.
-- 🛠️ **Engineering Philosophy:** Write lean, production-verified code by hand; eliminate bloat, minimize idle memory, and master fundamental systems from first principles.
+```bash
+ronit@workstation:~$ aero doctor --summary
+────────────────────────────────────────────────────────────────────────
+  ⚡ OS:          Aero Linux 1.0 (Rolling Edge) [Wayland / Sway]
+  ⚙️  CPU:         AMD Ryzen 5 5600H (12 Cores, Low-Latency P-State)
+  🧠 Memory:      15.3 GB Physical [Dynamic zRAM ZSTD In-Memory Compression]
+  🎓 Education:   CSBS @ Netaji Subhash Engineering College (2023–2027)
+  🛠️ Core Stack:  TypeScript, Node.js, Express, Hono, PostgreSQL, Redis, C, Java
+  🚀 Philosophy:  "Zero Bloat • First-Principles Depth • Hand-Crafted Code"
+────────────────────────────────────────────────────────────────────────
+```
 
 ---
 
@@ -26,46 +37,49 @@
 
 <div align="center">
 
-#### Languages & Core Runtimes
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+#### 💻 Languages & Systems
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Frameworks & Backend Architecture
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GTK3 / GJS](https://img.shields.io/badge/GTK%203%20%2F%20GJS-4A90E2?style=flat-square&logo=gnome&logoColor=white)
+<br/>
 
-#### Databases, Caching & Cloud Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+#### 🚀 Backend Architecture & Frameworks
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GTK3](https://img.shields.io/badge/GTK%203%20%2F%20GJS-4A90E2?style=for-the-badge&logo=gnome&logoColor=white)
+
+<br/>
+
+#### 🗄️ Databases, Caching & Cloud Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 📦 Featured Projects
+### 📦 Featured Engineering Projects
 
-- **⚡ [Aero Linux](https://github.com/ronitgupta138/aero-linux):** The Ultra-Lean AI & High-Performance Developer OS featuring sub-350MB idle RAM, dynamic zRAM ZSTD compression, adaptive CPU boost governors, and 1-click local LLM inference suite (`aero-cli`).
-- **🍽️ Dine Luxe Restaurant OS:** Full-scale production restaurant POS, table lifecycle, and billing engine built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
-- **📚 Stationery World:** Modern e-commerce and retail inventory automation platform with transactional consistency and optimized search.
+* **⚡ [Aero Linux](https://github.com/ronitgupta138/aero-linux)** — *The Ultra-Lean AI & High-Performance Developer OS.* Sub-350MB idle footprint, dynamic zRAM ZSTD compression, 1-click Ollama LLM serving, and dual desktop modes (Windows-Friendly + Hacker Tiling).
+* **🍽️ Dine Luxe Restaurant OS** — *High-Concurrency Restaurant Management Engine.* Real-time table lifecycle, reservation locking, and billing backend built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
+* **📚 Stationery World** — *Modern Retail Inventory Automation & E-Commerce Platform.* Engineered for transactional consistency, ACID compliance, and sub-millisecond search.
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Activity & Real-Time Metrics
+### 📊 Real-Time GitHub Activity & Metrics
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ronitgupta138&color=00f2fe&style=flat-square&label=Profile+Views)](https://github.com/ronitgupta138)
 [![Followers](https://img.shields.io/github/followers/ronitgupta138?label=Followers&style=flat-square&color=00f2fe&logo=github)](https://github.com/ronitgupta138)
@@ -75,10 +89,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ronitgupta138&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0e,100:00f2fe&height=100&section=footer" width="100%"/>
 
-<div align="center">
-  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
+<i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
+
 </div>
