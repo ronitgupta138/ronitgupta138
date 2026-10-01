@@ -89,19 +89,22 @@ ronit@workstation:~$ aero doctor --summary
 <a href="https://github.com/ronitgupta138">
   <img src="https://komarev.com/ghpvc/?username=ronitgupta138&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </a>
+&nbsp;
 <a href="https://github.com/ronitgupta138">
   <img src="https://img.shields.io/github/followers/ronitgupta138?label=Followers&style=flat-square&color=00f2fe&logo=github" alt="Followers" />
-</a>
-<a href="https://github.com/ronitgupta138?tab=repositories">
-  <img src="https://img.shields.io/badge/Public_Repos-14+-4facfe?style=flat-square&logo=github" alt="Public Repos" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://streak-stats.demolab.com/?user=ronitgupta138&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronitgupta138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195" />
 </a>
-&nbsp;
+<a href="https://github.com/ronitgupta138">
+  <img src="https://streak-stats.demolab.com/?user=ronitgupta138&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
+</a>
+
+<br/><br/>
+
 <a href="https://github.com/ronitgupta138">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
