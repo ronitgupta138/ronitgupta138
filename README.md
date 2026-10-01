@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0e,100:00f2fe&height=210&section=header&text=Ronit%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Systems%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%"/>
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Full-Stack+and+Systems+Software+Engineer;Building+Lean%2C+High-Performance+Backends;Linux+Internals+%E2%80%A2+Concurrency+%E2%80%A2+Zero-Bloat+Systems;Author+of+Aero+Linux+%E2%80%A2+Active+OSS+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Full-Stack+and+Systems+Software+Engineer;Building+Lean%2C+High-Performance+Backends;Linux+Internals+%E2%80%A2+Concurrency+%E2%80%A2+Zero-Bloat+Systems;Hand-Crafted+Code+from+First+Principles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,20 +30,6 @@ ronit@workstation:~$ aero doctor --summary
   🚀 Philosophy:  "Zero Bloat • First-Principles Depth • Hand-Crafted Code"
 ────────────────────────────────────────────────────────────────────────
 ```
-
----
-
-### 🌐 Upstream Open Source Contributions
-
-Active contributions and upstream patches across core Linux desktop and web tooling:
-
-| Repository | Contribution / Patch | Impact & Focus |
-| :--- | :--- | :--- |
-| **[linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)** | [PR #14021](https://github.com/linuxmint/cinnamon/pull/14021) — Explicit pointer ungrab on popup menu destroy | Prevents display server input capture freezes under Wayland/X11 |
-| **[linuxmint/hypnotix](https://github.com/linuxmint/hypnotix)** | [PR #434](https://github.com/linuxmint/hypnotix/pull/434) — Atomic channel logo download & validation | Eliminates corrupted cache artifacts and partial downloads |
-| **[linuxmint/xed](https://github.com/linuxmint/xed)** | [PR #760](https://github.com/linuxmint/xed/pull/760) — Strict Gtk / Gdk / GtkSource typelib pinning | Hardens GObject Introspection against cross-version runtime drift |
-| **[linuxmint/mintstick](https://github.com/linuxmint/mintstick)** | [PR #156](https://github.com/linuxmint/mintstick/pull/156) — Asynchronous ISO SHA-256 verification engine | Non-blocking cryptographic hashing and mirror checksum lookup |
-| **[honojs/hono](https://github.com/honojs/hono)** | [PR #5457](https://github.com/honojs/hono/pull/5457) — Web standards HTTP router parameter sanitization | High-throughput edge route resolution hardening |
 
 ---
 
