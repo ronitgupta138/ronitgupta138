@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronitgupta138)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronitgupta138)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ronitgupta138)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronitgupta138@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Kolkata%2C%20India-00f2fe?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
@@ -77,6 +78,20 @@ ronit@workstation:~$ aero doctor --summary
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 💖 Support My Open-Source Work & Research
+
+<div align="center">
+
+<a href="https://github.com/sponsors/ronitgupta138">
+  <img src="https://img.shields.io/badge/Sponsor-Ronit%20Gupta-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
+
+<p><i>If you find <b>Aero Linux</b>, my systems tools, or open-source research useful, consider sponsoring my work to support continuous Linux kernel optimization, package mirrors, and upcoming milestones!</i></p>
 
 </div>
 
