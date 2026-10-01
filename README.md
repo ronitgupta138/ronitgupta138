@@ -37,7 +37,6 @@ ronit@workstation:~$ aero doctor --summary
 
 * **⚡ [Aero Linux (v1.4.0-Supernova)](https://github.com/ronitgupta138/aero-linux)** — *Ultra-Lean Developer OS & Native Systems Suite.* Sub-350MB idle footprint, dynamic zRAM (ZSTD) memory optimization, 45 native zero-terminal GTK3 developer applications, 130/130 unit tests, automated Debian package builds (`.deb`), and live web documentation portal.
 * **🍽️ Dine Luxe Restaurant OS** — *High-Concurrency POS & Reservation Engine.* Real-time table lifecycle management, optimistic locking against double-booking, sub-millisecond cache invalidation, and transactional consistency built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
-* **🎓 [Zero-To-Hero Dev](https://github.com/ronitgupta138/Zero_To_Hero_Dev)** — *60-Day Full-Stack & Systems Engineering Engine.* A rigorous first-principles curriculum covering TypeScript, Node.js event loops, libuv asynchronous I/O, PostgreSQL indexing, Redis distributed caching, and containerized deployment.
 
 ---
 
