@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0e,100:00f2fe&height=210&section=header&text=Ronit%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Systems%20Software%20Engineer&descAlignY=62&descAlign=50" width="100%"/>
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Full-Stack+and+Systems+Software+Engineer;Building+Lean%2C+High-Performance+Backends;Mastering+Memory%2C+Concurrency+and+Linux+Internals;Writing+Clean+Code+by+Hand+from+First+Principles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Full-Stack+and+Systems+Software+Engineer;Building+Lean%2C+High-Performance+Backends;Linux+Internals+%E2%80%A2+Concurrency+%E2%80%A2+Zero-Bloat+Systems;Author+of+Aero+Linux+%E2%80%A2+Active+OSS+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,14 +22,36 @@
 ```bash
 ronit@workstation:~$ aero doctor --summary
 ────────────────────────────────────────────────────────────────────────
-  ⚡ OS:          Aero Linux 1.0 (Rolling Edge) [Wayland / Sway]
-  ⚙️  CPU:         AMD Ryzen 5 5600H (12 Cores, Low-Latency P-State)
-  🧠 Memory:      15.3 GB Physical [Dynamic zRAM ZSTD In-Memory Compression]
+  ⚡ OS:          Aero Linux v1.4.0-Supernova [Rolling Edge / Wayland / Cinnamon]
+  ⚙️  CPU:         AMD Ryzen 5 5600H (12 Cores / Low-Latency P-State)
+  🧠 Memory:      15.3 GB Physical [7.5 GB Dynamic zRAM ZSTD In-Memory Compression]
   🎓 Education:   CSBS @ Netaji Subhash Engineering College (2023–2027)
   🛠️ Core Stack:  TypeScript, Node.js, Express, Hono, PostgreSQL, Redis, C, Java
   🚀 Philosophy:  "Zero Bloat • First-Principles Depth • Hand-Crafted Code"
 ────────────────────────────────────────────────────────────────────────
 ```
+
+---
+
+### 🌐 Upstream Open Source Contributions
+
+Active contributions and upstream patches across core Linux desktop and web tooling:
+
+| Repository | Contribution / Patch | Impact & Focus |
+| :--- | :--- | :--- |
+| **[linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)** | [PR #14021](https://github.com/linuxmint/cinnamon/pull/14021) — Explicit pointer ungrab on popup menu destroy | Prevents display server input capture freezes under Wayland/X11 |
+| **[linuxmint/hypnotix](https://github.com/linuxmint/hypnotix)** | [PR #434](https://github.com/linuxmint/hypnotix/pull/434) — Atomic channel logo download & validation | Eliminates corrupted cache artifacts and partial downloads |
+| **[linuxmint/xed](https://github.com/linuxmint/xed)** | [PR #760](https://github.com/linuxmint/xed/pull/760) — Strict Gtk / Gdk / GtkSource typelib pinning | Hardens GObject Introspection against cross-version runtime drift |
+| **[linuxmint/mintstick](https://github.com/linuxmint/mintstick)** | [PR #156](https://github.com/linuxmint/mintstick/pull/156) — Asynchronous ISO SHA-256 verification engine | Non-blocking cryptographic hashing and mirror checksum lookup |
+| **[honojs/hono](https://github.com/honojs/hono)** | [PR #5457](https://github.com/honojs/hono/pull/5457) — Web standards HTTP router parameter sanitization | High-throughput edge route resolution hardening |
+
+---
+
+### 📦 Featured Engineering Projects
+
+* **⚡ [Aero Linux (v1.4.0-Supernova)](https://github.com/ronitgupta138/aero-linux)** — *Ultra-Lean Developer OS & Native Systems Suite.* Sub-350MB idle footprint, dynamic zRAM (ZSTD) memory optimization, 45 native zero-terminal GTK3 developer applications, 130/130 unit tests, automated Debian package builds (`.deb`), and live web documentation portal.
+* **🍽️ Dine Luxe Restaurant OS** — *High-Concurrency POS & Reservation Engine.* Real-time table lifecycle management, optimistic locking against double-booking, sub-millisecond cache invalidation, and transactional consistency built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
+* **🎓 [Zero-To-Hero Dev](https://github.com/ronitgupta138/Zero_To_Hero_Dev)** — *60-Day Full-Stack & Systems Engineering Engine.* A rigorous first-principles curriculum covering TypeScript, Node.js event loops, libuv asynchronous I/O, PostgreSQL indexing, Redis distributed caching, and containerized deployment.
 
 ---
 
@@ -75,24 +97,6 @@ ronit@workstation:~$ aero doctor --summary
 
 ---
 
-### 🔭 Current Engineering Focus
-
-| Domain | Active Workstream | Focus & Target Output |
-| :--- | :--- | :--- |
-| **Operating Systems** | ⚡ **[Aero Linux](https://github.com/ronitgupta138/aero-linux)** | Sub-350MB idle Wayland developer distro with dynamic zRAM & 1-click local LLM inference |
-| **Backend & Systems** | 🚀 **Dine Luxe POS Engine** | High-concurrency table lifecycle, optimistic locking, and Redis caching |
-| **Algorithms** | 🧠 **DSA Mastery in Java** | First-principles memory layouts, pointer arithmetic, and algorithmic problem-solving |
-
----
-
-### 📦 Featured Engineering Projects
-
-* **⚡ [Aero Linux](https://github.com/ronitgupta138/aero-linux)** — *The Ultra-Lean AI & High-Performance Developer OS.* Sub-350MB idle footprint, dynamic zRAM ZSTD compression, 1-click Ollama LLM serving, and dual desktop modes (Windows-Friendly + Hacker Tiling).
-* **🍽️ Dine Luxe Restaurant OS** — *High-Concurrency Restaurant Management Engine.* Real-time table lifecycle, reservation locking, and billing backend built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
-* **📚 Stationery World** — *Modern Retail Inventory Automation & E-Commerce Platform.* Engineered for transactional consistency, ACID compliance, and sub-millisecond search.
-
----
-
 <div align="center">
 
 ### 📊 Real-Time GitHub Activity & Metrics
@@ -112,8 +116,12 @@ ronit@workstation:~$ aero doctor --summary
 <a href="https://github.com/ronitgupta138">
   <img src="https://streak-stats.demolab.com/?user=ronitgupta138&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
+&nbsp;
+<a href="https://github.com/ronitgupta138">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0e,100:00f2fe&height=100&section=footer" width="100%"/>
 
