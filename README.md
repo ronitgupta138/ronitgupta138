@@ -38,6 +38,11 @@ ronit@workstation:~$ aero doctor --summary
 
 * **⚡ [Aero Linux (v1.4.0-Supernova)](https://github.com/ronitgupta138/aero-linux)** — *Ultra-Lean Developer OS & Native Systems Suite.* Sub-350MB idle footprint, dynamic zRAM (ZSTD) memory optimization, 45 native zero-terminal GTK3 developer applications, 130/130 unit tests, automated Debian package builds (`.deb`), and live web documentation portal.
 * **🍽️ Dine Luxe Restaurant OS** — *High-Concurrency POS & Reservation Engine.* Real-time table lifecycle management, optimistic locking against double-booking, sub-millisecond cache invalidation, and transactional consistency built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
+* **🌐 Upstream Open-Source Contributions:**
+  * **[linuxmint/cinnamon#14021](https://github.com/linuxmint/cinnamon/pull/14021)** — Resolved compositor modal grab leak on window destroy in Linux Mint Cinnamon.
+  * **[honojs/hono#5458](https://github.com/honojs/hono/pull/5458)** — Fixed TrieRouter wildcard edge-case routing in Hono.js edge web framework.
+  * **[linuxmint/hypnotix#434](https://github.com/linuxmint/hypnotix/pull/434)** — Implemented atomic channel logo validation and download in Hypnotix.
+  * **[linuxmint/mintstick#156](https://github.com/linuxmint/mintstick/pull/156)** — Hardened asynchronous ISO verification and mirror handling in MintStick.
 
 ---
 
