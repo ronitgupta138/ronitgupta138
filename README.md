@@ -22,14 +22,14 @@
 
 ```bash
 ronit@workstation:~$ aero doctor --summary
-────────────────────────────────────────────────────────────────────────
-  ⚡ OS:          Aero Linux v1.4.0-Supernova [Kernel 7.0 / Rolling Edge / Wayland]
-  ⚙️  CPU:         AMD Ryzen 5 5600H (6C/12T @ 4.2GHz / Low-Latency P-State)
-  🧠 Memory:      15.3 GB Physical [7.5 GB Dynamic zRAM ZSTD In-Memory Compression]
-  🎓 Education:   CSBS @ Netaji Subhash Engineering College (2023–2027)
-  🛠️ Core Stack:  TypeScript, Node.js, Express, Hono, PostgreSQL, Redis, C, Java
-  🚀 Philosophy:  "Zero Bloat • First-Principles Depth • Hand-Crafted Code"
-────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────────────
+  OS            ::  Aero Linux v1.4.0-Supernova [Kernel 7.0 / Rolling Edge / Wayland]
+  Host / CPU    ::  AMD Ryzen 5 5600H (6C/12T @ 4.2GHz / Low-Latency P-State)
+  Memory        ::  15.3 GB Physical [7.5 GB Dynamic zRAM ZSTD In-Memory Compression]
+  Education     ::  CSBS @ Netaji Subhash Engineering College (2023–2027)
+  Core Stack    ::  TypeScript, Node.js, Express, Hono, PostgreSQL, Redis, C, Java
+  Philosophy    ::  "Zero Bloat • First-Principles Depth • Hand-Crafted Code"
+──────────────────────────────────────────────────────────────────────────
 ```
 
 ---
@@ -106,9 +106,9 @@ ronit@workstation:~$ aero doctor --summary
 
 ---
 
-<div align="center">
-
 ### 📊 Real-Time GitHub Activity & Metrics
+
+<div align="center">
 
 <a href="https://github.com/ronitgupta138">
   <img src="https://hits.sh/github.com/ronitgupta138.svg?style=flat-square&label=Profile+Views&color=0891b2&labelColor=0a0b0e" alt="Profile Views" />
