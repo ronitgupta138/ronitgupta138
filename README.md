@@ -111,11 +111,11 @@ ronit@workstation:~$ aero doctor --summary
 ### 📊 Real-Time GitHub Activity & Metrics
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://hits.sh/github.com/ronitgupta138.svg?style=flat-square&label=Profile+Views&color=00f2fe&labelColor=0a0b0e" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/ronitgupta138.svg?style=flat-square&label=Profile+Views&color=0891b2&labelColor=0a0b0e" alt="Profile Views" />
 </a>
 &nbsp;
 <a href="https://github.com/ronitgupta138">
-  <img src="https://img.shields.io/github/followers/ronitgupta138?label=Followers&style=flat-square&color=00f2fe&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/ronitgupta138?style=flat-square&label=Followers&labelColor=0a0b0e&color=0891b2&logo=github&logoColor=00f2fe" alt="Followers" />
 </a>
 
 <br/><br/>
