@@ -130,8 +130,22 @@ ronit@workstation:~$ aero doctor --summary
 <br/><br/>
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&bg_color=0a0b0e&title_color=00f2fe&text_color=e6edf3&hide_border=true&hide=html,css,makefile" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&bg_color=0a0b0e&title_color=00f2fe&text_color=e6edf3&hide_border=true" alt="Top Languages" />
 </a>
+
+<br/><br/>
+
+<div align="center">
+  <sub><b>PRIMARY POLYGLOT & SYSTEMS FOCUS</b></sub><br/>
+  <a href="https://github.com/ronitgupta138"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://github.com/ronitgupta138"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="https://github.com/ronitgupta138"><img src="https://img.shields.io/badge/C%20(Linux%20Systems)-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" /></a>
+  <a href="https://github.com/ronitgupta138"><img src="https://img.shields.io/badge/Java%20(DSA%20%2F%20Backend)-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://github.com/ronitgupta138"><img src="https://img.shields.io/badge/Python%20(OS%20%2F%20Tooling)-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/ronitgupta138"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://github.com/ronitgupta138"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /></a>
+  <a href="https://github.com/ronitgupta138"><img src="https://img.shields.io/badge/Shell%20%2F%20Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" /></a>
+</div>
 
 <br/><br/>
 
