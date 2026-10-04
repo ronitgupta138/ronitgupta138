@@ -55,7 +55,7 @@ ronit@workstation:~$ aero doctor --summary
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,python,c,java,postgres,redis,docker,linux,git,bash,html,css&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,fastapi,prisma,python,c,java,postgres,redis,sqlite,docker,linux,git,bash&theme=dark" alt="Tech Stack Icons" />
 </a>
 
 <br/><br/>
