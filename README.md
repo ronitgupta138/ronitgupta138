@@ -117,7 +117,9 @@ ronit@workstation:~$ aero doctor --summary
 <a href="https://github.com/ronitgupta138">
   <img src="https://img.shields.io/github/followers/ronitgupta138?style=flat-square&label=Followers&labelColor=0a0b0e&color=0891b2&logo=github&logoColor=00f2fe" alt="Followers" />
 </a>
-&nbsp;
+
+<br/><br/>
+
 <a href="https://committers.top/india">
   <img src="https://user-badge.committers.top/india_public/ronitgupta138.svg" alt="committers.top badge" />
 </a>
