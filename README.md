@@ -54,12 +54,6 @@ ronit@workstation:~$ aero doctor --summary
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,fastapi,prisma,python,c,java,postgres,redis,sqlite,docker,linux,git,bash&theme=dark" alt="Tech Stack Icons" />
-</a>
-
-<br/><br/>
-
 #### 💻 Languages & Systems
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
