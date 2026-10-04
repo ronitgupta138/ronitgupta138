@@ -118,19 +118,19 @@ ronit@workstation:~$ aero doctor --summary
   <img src="https://img.shields.io/github/followers/ronitgupta138?style=flat-square&label=Followers&labelColor=0a0b0e&color=0891b2&logo=github&logoColor=00f2fe" alt="Followers" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://committers.top/india">
   <img src="https://user-badge.committers.top/india_public/ronitgupta138.svg" alt="committers.top badge" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/ronitgupta138">
   <img src="https://github-analytics-incog.vercel.app/api?username=ronitgupta138&theme=github_dark" alt="GitHub Analytics Dashboard" width="100%" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0e,100:00f2fe&height=100&section=footer" width="100%"/>
 
