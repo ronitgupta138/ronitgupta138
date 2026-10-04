@@ -37,7 +37,12 @@ ronit@workstation:~$ aero doctor --summary
 ### 📦 Featured Engineering Projects
 
 * **⚡ [Aero Linux (v1.4.0-Supernova)](https://github.com/ronitgupta138/aero-linux)** — *Ultra-Lean Developer OS & Native Systems Suite.* Sub-350MB idle footprint, dynamic zRAM (ZSTD) memory optimization, 45 native zero-terminal GTK3 developer applications, 130/130 unit tests, automated Debian package builds (`.deb`), and live web documentation portal.
-* **🍽️ Dine Luxe Restaurant OS** — *High-Concurrency POS & Reservation Engine.* Real-time table lifecycle management, optimistic locking against double-booking, sub-millisecond cache invalidation, and transactional consistency built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
+* **⚡ [Vectra Core](https://github.com/ronitgupta138/vectra-core)** — *In-Memory Vector Search Engine & HNSW Graph Index.* High-dimensional approximate nearest neighbor (ANN) retrieval in Java 21 Loom virtual threads. 8-bit scalar quantization (SQ8) with 75% RAM reduction, filtered hybrid vector search, and verified 16,900+ QPS with 0.28ms median latency.
+* **🇮🇳 [Bharat Spatial Engine](https://github.com/ronitgupta138/bharat-spatial-engine)** — *National-Scale Geospatial Hierarchy & Proximity Query Engine.* Sub-millisecond reverse geocoding and radius proximity search across India's 650,000+ census settlements and MDDS codes. 2D geographic KD-Tree with spherical Haversine pruning and transliteration-tolerant Indic trigram search, clocking 38,400+ QPS with 2.09ms p99 latency in Java 21 Loom.
+* **⚡ [Apex Matching Engine](https://github.com/ronitgupta138/apex-matching-engine)** — *Ultra-Low Latency Continuous Double Auction Order Book.* Price-time priority (FIFO) execution engine built in Java 21 Loom, delivering in-memory L2 market depth updates, concurrent order matching, and real-time STOMP WebSocket feeds exceeding 50,000 ops/sec.
+* **⚡ [FinFlow Core](https://github.com/ronitgupta138/finflow-core)** — *Enterprise Banking & Financial Aggregation REST Platform.* Built on Spring Boot 3.3, Java 17, Spring Security 6 (stateless JWT authentication), PostgreSQL 16, and Docker. Features multi-tenant isolation, automated scheduled market data ingestion, and custom JPQL financial aggregation queries.
+* **🎙️ [VoxIntel Engine](https://github.com/ronitgupta138/vox-intel-engine)** — *Multi-Modal Speech Telemetry & Acoustic DSP AI Engine.* Built with Python 3.11 and FastAPI for real-time speech analytics. Extracts pitch fundamental frequencies via autocorrelation DSP, spectral energy distribution via FFT, and lexical delivery metrics (WPM, filler word density, type-token ratio).
+* **🍽️ [Dine Luxe Restaurant OS](https://github.com/ronitgupta138/dine-luxe-restaurant-os)** — *High-Concurrency POS & Reservation Engine.* Real-time table lifecycle management, optimistic locking against double-booking, sub-millisecond cache invalidation, and transactional consistency built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
 * **🌐 Upstream Open-Source Contributions:**
   * **[shadcn-ui/ui#12120](https://github.com/shadcn-ui/ui/pull/12120)** — Forwarded `disabled` prop to `TooltipTrigger` in `SidebarMenuButton`.
   * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957)** — Exported `__iconData` and `__iconNode` across per-icon modules in Svelte.
@@ -66,6 +71,7 @@ ronit@workstation:~$ aero doctor --summary
 <br/>
 
 #### 🚀 Backend Architecture & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
