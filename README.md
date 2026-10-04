@@ -39,8 +39,12 @@ ronit@workstation:~$ aero doctor --summary
 * **⚡ [Aero Linux (v1.4.0-Supernova)](https://github.com/ronitgupta138/aero-linux)** — *Ultra-Lean Developer OS & Native Systems Suite.* Sub-350MB idle footprint, dynamic zRAM (ZSTD) memory optimization, 45 native zero-terminal GTK3 developer applications, 130/130 unit tests, automated Debian package builds (`.deb`), and live web documentation portal.
 * **🍽️ Dine Luxe Restaurant OS** — *High-Concurrency POS & Reservation Engine.* Real-time table lifecycle management, optimistic locking against double-booking, sub-millisecond cache invalidation, and transactional consistency built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
 * **🌐 Upstream Open-Source Contributions:**
+  * **[shadcn-ui/ui#12120](https://github.com/shadcn-ui/ui/pull/12120)** — Forwarded `disabled` prop to `TooltipTrigger` in `SidebarMenuButton`.
+  * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957)** — Exported `__iconData` and `__iconNode` across per-icon modules in Svelte.
+  * **[juju/juju#23485](https://github.com/juju/juju/pull/23485)** — Added JSON tags and base64 auth field to `dockerconfigjson` in Canonical Juju Kubernetes.
   * **[linuxmint/cinnamon#14021](https://github.com/linuxmint/cinnamon/pull/14021)** — Resolved compositor modal grab leak on window destroy in Linux Mint Cinnamon.
   * **[honojs/hono#5458](https://github.com/honojs/hono/pull/5458)** — Fixed TrieRouter wildcard edge-case routing in Hono.js edge web framework.
+  * **[linuxmint/xed#760](https://github.com/linuxmint/xed/pull/760)** — Explicitly specified Gtk 3.0, Gdk 3.0, and GtkSource 4 typelib versions.
   * **[linuxmint/hypnotix#434](https://github.com/linuxmint/hypnotix/pull/434)** — Implemented atomic channel logo validation and download in Hypnotix.
   * **[linuxmint/mintstick#156](https://github.com/linuxmint/mintstick/pull/156)** — Hardened asynchronous ISO verification and mirror handling in MintStick.
 
@@ -117,16 +121,16 @@ ronit@workstation:~$ aero doctor --summary
 <br/><br/>
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronitgupta138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronitgupta138&show_icons=true&bg_color=0a0b0e&title_color=00f2fe&icon_color=00f2fe&text_color=e6edf3&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195" />
 </a>
 <a href="https://github.com/ronitgupta138">
-  <img src="https://streak-stats.demolab.com/?user=ronitgupta138&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=ronitgupta138&background=0a0b0e&border=00f2fe&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" height="195" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&bg_color=0a0b0e&title_color=00f2fe&text_color=e6edf3&hide_border=true&hide=html,css,makefile" alt="Top Languages" />
 </a>
 
 <br/><br/>
