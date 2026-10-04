@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronitgupta138)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ronitgupta138)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronitgupta138@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Kolkata%2C%20India-00f2fe?style=for-the-badge&logo=google-maps&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Location-Kolkata%2C%20India-0891b2?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Kolkata,+West+Bengal)
 
 </div>
 
