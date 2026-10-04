@@ -121,16 +121,16 @@ ronit@workstation:~$ aero doctor --summary
 <br/><br/>
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronitgupta138&show_icons=true&bg_color=0a0b0e&title_color=00f2fe&icon_color=00f2fe&text_color=e6edf3&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronitgupta138&show_icons=true&bg_color=0a0b0e&title_color=00f2fe&icon_color=00f2fe&text_color=e6edf3&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
 </a>
 <a href="https://github.com/ronitgupta138">
-  <img src="https://streak-stats.demolab.com/?user=ronitgupta138&background=0a0b0e&border=00f2fe&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=ronitgupta138&background=0a0b0e&border=00f2fe&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" height="165" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&bg_color=0a0b0e&title_color=00f2fe&text_color=e6edf3&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitgupta138&layout=compact&bg_color=0a0b0e&title_color=00f2fe&text_color=e6edf3&hide_border=true" alt="Top Languages" height="165" />
 </a>
 
 <br/><br/>
