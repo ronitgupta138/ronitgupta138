@@ -118,16 +118,8 @@ ronit@workstation:~$ aero doctor --summary
   <img src="https://img.shields.io/github/followers/ronitgupta138?style=flat-square&label=Followers&labelColor=0a0b0e&color=0891b2&logo=github&logoColor=00f2fe" alt="Followers" />
 </a>
 &nbsp;
-<a href="https://github.com/ronitgupta138">
-  <img src="https://img.shields.io/badge/Contributions-450%2B-0891b2?style=flat-square&labelColor=0a0b0e&logo=git&logoColor=00f2fe" alt="Contributions" />
-</a>
-&nbsp;
-<a href="https://github.com/ronitgupta138">
-  <img src="https://img.shields.io/badge/Upstream_PRs-31_Active-0891b2?style=flat-square&labelColor=0a0b0e&logo=github&logoColor=00f2fe" alt="Upstream PRs" />
-</a>
-&nbsp;
-<a href="https://github.com/ronitgupta138">
-  <img src="https://img.shields.io/badge/Commit_Streak-10_Days-0891b2?style=flat-square&labelColor=0a0b0e&logo=hackthebox&logoColor=00f2fe" alt="Commit Streak" />
+<a href="https://committers.top/india">
+  <img src="https://user-badge.committers.top/india_public/ronitgupta138.svg" alt="committers.top badge" />
 </a>
 
 <br/><br/>
