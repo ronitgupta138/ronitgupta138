@@ -86,20 +86,6 @@ ronit@workstation:~$ aero doctor --summary
 
 ---
 
-### 💖 Support My Open-Source Work & Research
-
-<div align="center">
-
-<a href="https://github.com/sponsors/ronitgupta138">
-  <img src="https://img.shields.io/badge/Sponsor-Ronit%20Gupta-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
-</a>
-
-<p><i>If you find <b>Aero Linux</b>, my systems tools, or open-source research useful, consider sponsoring my work to support continuous Linux kernel optimization, package mirrors, and upcoming milestones!</i></p>
-
-</div>
-
----
-
 ### 📊 Real-Time GitHub Activity & Metrics
 
 <div align="center">
@@ -123,6 +109,20 @@ ronit@workstation:~$ aero doctor --summary
 <a href="https://github.com/ronitgupta138">
   <img src="https://github-analytics-incog.vercel.app/api?username=ronitgupta138&theme=github_dark" alt="GitHub Analytics Dashboard" width="100%" />
 </a>
+
+</div>
+
+---
+
+### 💖 Support My Open-Source Work & Research
+
+<div align="center">
+
+<a href="https://github.com/sponsors/ronitgupta138">
+  <img src="https://img.shields.io/badge/Sponsor-Ronit%20Gupta-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
+
+<p><i>If you find <b>Aero Linux</b>, my systems tools, or open-source research useful, consider sponsoring my work to support continuous Linux kernel optimization, package mirrors, and upcoming milestones!</i></p>
 
 <br/>
 
