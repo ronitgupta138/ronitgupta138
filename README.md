@@ -111,7 +111,7 @@ ronit@workstation:~$ aero doctor --summary
 ### 📊 Real-Time GitHub Activity & Metrics
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://komarev.com/ghpvc/?username=ronitgupta138&color=00f2fe&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/ronitgupta138.svg?style=flat-square&label=Profile+Views&color=00f2fe&labelColor=0a0b0e" alt="Profile Views" />
 </a>
 &nbsp;
 <a href="https://github.com/ronitgupta138">
