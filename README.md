@@ -36,6 +36,7 @@ ronit@workstation:~$ aero doctor --summary
 
 ### 📦 Featured Engineering Projects
 
+* **⚡ [agent-2pc](https://github.com/ronitgupta138/agent-2pc)** — *Heterogeneous Two-Phase Commit (2PC) & WAL Engine for AI Agents.* Eliminates dirty repository state, broken syntax, and hallucinated rollbacks across autonomous agent tool pipelines. Rust engine featuring crash-consistent binary Write-Ahead Log (`fsync` + CRC32), isolated scratchspaces, deterministic rollbacks, and drop-in Model Context Protocol (MCP) server support.
 * **⚡ [Aero Linux (v1.4.0-Supernova)](https://github.com/ronitgupta138/aero-linux)** — *Ultra-Lean Developer OS & Native Systems Suite.* Sub-350MB idle footprint, dynamic zRAM (ZSTD) memory optimization, 45 native zero-terminal GTK3 developer applications, 130/130 unit tests, automated Debian package builds (`.deb`), and live web documentation portal.
 * **⚡ [Vectra Core](https://github.com/ronitgupta138/vectra-core)** — *In-Memory Vector Search Engine & HNSW Graph Index.* High-dimensional approximate nearest neighbor (ANN) retrieval in Java 21 Loom virtual threads. 8-bit scalar quantization (SQ8) with 75% RAM reduction, filtered hybrid vector search, and verified 16,900+ QPS with 0.28ms median latency.
 * **🇮🇳 [Bharat Spatial Engine](https://github.com/ronitgupta138/bharat-spatial-engine)** — *National-Scale Geospatial Hierarchy & Proximity Query Engine.* Sub-millisecond reverse geocoding and radius proximity search across India's 650,000+ census settlements and MDDS codes. 2D geographic KD-Tree with spherical Haversine pruning and transliteration-tolerant Indic trigram search, clocking 38,400+ QPS with 2.09ms p99 latency in Java 21 Loom.
@@ -60,6 +61,7 @@ ronit@workstation:~$ aero doctor --summary
 <div align="center">
 
 #### 💻 Languages & Systems
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
