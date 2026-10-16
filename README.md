@@ -63,7 +63,6 @@ ronit@workstation:~$ aero doctor --summary
   * **[juju/juju#23485](https://github.com/juju/juju/pull/23485)** — Added JSON tags and base64 auth field to `dockerconfigjson` in Canonical Juju Kubernetes.
   * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957)** — Exported `__iconData` and `__iconNode` across per-icon modules in Svelte.
   * **[linuxmint/cinnamon#14021](https://github.com/linuxmint/cinnamon/pull/14021)** — Resolved compositor modal grab leak on window destroy in Linux Mint Cinnamon.
-  * **[honojs/hono#5458](https://github.com/honojs/hono/pull/5458)** — Fixed TrieRouter wildcard edge-case routing in Hono.js edge web framework.
   * **[linuxmint/nemo#3859](https://github.com/linuxmint/nemo/pull/3859)** & **[#3860](https://github.com/linuxmint/nemo/pull/3860)** — Fixed file manager view refresh and selection edge cases in Nemo.
   * **[linuxmint/warpinator#263](https://github.com/linuxmint/warpinator/pull/263)** — Hardened network payload transfer validation in Warpinator.
 
