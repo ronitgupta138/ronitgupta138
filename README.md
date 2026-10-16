@@ -47,24 +47,26 @@ ronit@workstation:~$ aero doctor --summary
 * **🎙️ [VoxIntel Engine](https://github.com/ronitgupta138/vox-intel-engine)** — *Multi-Modal Speech Telemetry & Acoustic DSP AI Engine.* Built with Python 3.11 and FastAPI for real-time speech analytics. Extracts pitch fundamental frequencies via autocorrelation DSP, spectral energy distribution via FFT, and lexical delivery metrics (WPM, filler word density, type-token ratio).
 * **⚡ [Dine Luxe](https://github.com/ronitgupta138/dine-luxe)** — *High-Concurrency POS & Reservation Engine.* Real-time table lifecycle management, optimistic locking against double-booking, sub-millisecond cache invalidation, and transactional consistency built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
 * **🌐 High-Impact Distributed Systems & Upstream Contributions:**
-  * **[redisson/redisson#7390](https://github.com/redisson/redisson/pull/7390) (MERGED)** — Implemented `RBatch.getMap` variants accepting custom `MapOptions` across sync, reactive, and RxJava batch interfaces.
-  * **[redisson/redisson#7392](https://github.com/redisson/redisson/pull/7392)** — Verified replica sync in `RTransaction` commit to uphold distributed transaction replication quorum.
-  * **[redisson/redisson#7393](https://github.com/redisson/redisson/pull/7393)** — Added native Spring Boot auto-configuration for Sentinel & Cluster `readMode` and `subscriptionMode`.
-  * **[redisson/redisson#7394](https://github.com/redisson/redisson/pull/7394)** — Fixed permanent `RReliableTopic` subscriber stalls on transient write barriers & guarded Lua numeric string formatting.
-  * **[redisson/redisson#7395](https://github.com/redisson/redisson/pull/7395)** — Implemented `RTransaction.getMap` and `getMapCache` overloads accepting `MapOptions` / `MapCacheOptions`.
-  * **[redisson/redisson#7396](https://github.com/redisson/redisson/pull/7396)** — Exposed configurable `topicName` in `RedissonSessionManager` across Tomcat 7, 8, 9, 10, and 11.
-  * **[redisson/redisson#7397](https://github.com/redisson/redisson/pull/7397)** — Extended `AutoCloseable` on `RDestroyable` to unlock standard Java `try-with-resources` resource safety.
-  * **[redis/go-redis#4114](https://github.com/redis/go-redis/pull/4114)** — Bounded OpenTelemetry statement attribute truncation with zero-allocation byte inspection.
-  * **[redis/lettuce#3956](https://github.com/redis/lettuce/pull/3956)** — Bounded `SharedLock` exclusive acquisition spin with Java 8/9+ compatible pause backoff and timeout.
-  * **[redis/lettuce#3953](https://github.com/redis/lettuce/pull/3953)** — Forwarded missing RESP3 command output callbacks in `MultiOutput` and `ReplayOutput`.
-  * **[valkey-io/valkey#4897](https://github.com/valkey-io/valkey/pull/4897)** — Supported `SENTINEL aclfile` command validation.
-  * **[meilisearch/meilisearch#6690](https://github.com/meilisearch/meilisearch/pull/6690)** — Guarded against search permit starvation in similar search worker queue.
-  * **[qdrant/qdrant#11178](https://github.com/qdrant/qdrant/pull/11178)** — Enforced atomic alias collision rejection in vector collection routing.
-  * **[juju/juju#23485](https://github.com/juju/juju/pull/23485)** — Added JSON tags and base64 auth field to `dockerconfigjson` in Canonical Juju Kubernetes.
-  * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957)** — Exported `__iconData` and `__iconNode` across per-icon modules in Svelte.
-  * **[linuxmint/cinnamon#14021](https://github.com/linuxmint/cinnamon/pull/14021)** — Resolved compositor modal grab leak on window destroy in Linux Mint Cinnamon.
-  * **[linuxmint/nemo#3859](https://github.com/linuxmint/nemo/pull/3859)** & **[#3860](https://github.com/linuxmint/nemo/pull/3860)** — Fixed file manager view refresh and selection edge cases in Nemo.
-  * **[linuxmint/warpinator#263](https://github.com/linuxmint/warpinator/pull/263)** — Hardened network payload transfer validation in Warpinator.
+  * **[redisson/redisson](https://github.com/redisson/redisson)**:
+    * **[#7390](https://github.com/redisson/redisson/pull/7390) (MERGED)** & **[#7395](https://github.com/redisson/redisson/pull/7395)** — `RBatch` & `RTransaction` options overloads across sync, reactive, and RxJava interfaces.
+    * **[#7392](https://github.com/redisson/redisson/pull/7392)** — Distributed transaction quorum verification (`WAIT` slave replica check on commit).
+    * **[#7393](https://github.com/redisson/redisson/pull/7393)** — Spring Boot auto-configuration for Sentinel & Cluster `readMode` and `subscriptionMode`.
+    * **[#7394](https://github.com/redisson/redisson/pull/7394)** — Resilient watchdog renewal & consumer poll loop retry under transient write barriers.
+    * **[#7396](https://github.com/redisson/redisson/pull/7396)** — Configurable pub/sub topic routing in `RedissonSessionManager` across Tomcat 7–11.
+    * **[#7397](https://github.com/redisson/redisson/pull/7397)** — Extended `AutoCloseable` on `RDestroyable` for `try-with-resources` safety.
+  * **[redis/lettuce](https://github.com/redis/lettuce)**:
+    * **[#3956](https://github.com/redis/lettuce/pull/3956)** — Bounded exclusive spin with Java 8/9+ compatible pause backoff and timeout.
+    * **[#3953](https://github.com/redis/lettuce/pull/3953)** — Forwarded missing RESP3 command output callbacks in `MultiOutput` and `ReplayOutput`.
+  * **[redis/go-redis](https://github.com/redis/go-redis)**:
+    * **[#4114](https://github.com/redis/go-redis/pull/4114)** — Bounded OpenTelemetry statement truncation with zero-allocation byte inspection.
+  * **Storage & Vector Infrastructure**:
+    * **[valkey-io/valkey#4897](https://github.com/valkey-io/valkey/pull/4897)** — Supported `SENTINEL aclfile` command validation.
+    * **[meilisearch/meilisearch#6690](https://github.com/meilisearch/meilisearch/pull/6690)** — Guarded against search permit starvation in worker queue.
+    * **[qdrant/qdrant#11178](https://github.com/qdrant/qdrant/pull/11178)** — Enforced atomic alias collision rejection in vector collection routing.
+  * **Linux Desktop & Systems Infrastructure**:
+    * **[linuxmint](https://github.com/linuxmint)** — Compositor modal grab leak fix in **[cinnamon#14021](https://github.com/linuxmint/cinnamon/pull/14021)**, view refresh fixes in **[nemo#3859 & #3860](https://github.com/linuxmint/nemo/pull/3859)**, and payload validation in **[warpinator#263](https://github.com/linuxmint/warpinator/pull/263)**.
+    * **[juju/juju#23485](https://github.com/juju/juju/pull/23485)** — JSON tags and base64 auth field in Canonical Juju Kubernetes.
+    * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957)** — Exported `__iconData` and `__iconNode` per-icon modules in Svelte.
 
 ---
 
