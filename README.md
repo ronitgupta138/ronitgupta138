@@ -27,7 +27,7 @@ ronit@workstation:~$ aero doctor --summary
   Host / CPU    ::  AMD Ryzen 5 5600H (6C/12T @ 4.2GHz / Low-Latency P-State)
   Memory        ::  15.3 GB Physical [7.5 GB Dynamic zRAM ZSTD In-Memory Compression]
   Education     ::  CSBS @ Netaji Subhash Engineering College (2023–2027)
-  Core Stack    ::  TypeScript, Node.js, Express, Hono, PostgreSQL, Redis, C, Java
+  Core Stack    ::  Rust, TypeScript, Java, Node.js, Spring Boot, PostgreSQL, Redis, C
   Philosophy    ::  "Zero Bloat • First-Principles Depth • Hand-Crafted Code"
 ──────────────────────────────────────────────────────────────────────────
 ```
@@ -45,16 +45,27 @@ ronit@workstation:~$ aero doctor --summary
 * **⚡ [Apex Matching Engine](https://github.com/ronitgupta138/apex-matching-engine)** — *Ultra-Low Latency Continuous Double Auction Order Book.* Price-time priority (FIFO) execution engine built in Java 21 Loom, delivering in-memory L2 market depth updates, concurrent order matching, and real-time STOMP WebSocket feeds exceeding 50,000 ops/sec.
 * **⚡ [FinFlow Core](https://github.com/ronitgupta138/finflow-core)** — *Enterprise Banking & Financial Aggregation REST Platform.* Built on Spring Boot 3.3, Java 17, Spring Security 6 (stateless JWT authentication), PostgreSQL 16, and Docker. Features multi-tenant isolation, automated scheduled market data ingestion, and custom JPQL financial aggregation queries.
 * **🎙️ [VoxIntel Engine](https://github.com/ronitgupta138/vox-intel-engine)** — *Multi-Modal Speech Telemetry & Acoustic DSP AI Engine.* Built with Python 3.11 and FastAPI for real-time speech analytics. Extracts pitch fundamental frequencies via autocorrelation DSP, spectral energy distribution via FFT, and lexical delivery metrics (WPM, filler word density, type-token ratio).
-* **🍽️ [Dine Luxe Restaurant OS](https://github.com/ronitgupta138/dine-luxe-restaurant-os)** — *High-Concurrency POS & Reservation Engine.* Real-time table lifecycle management, optimistic locking against double-booking, sub-millisecond cache invalidation, and transactional consistency built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
-* **🌐 Upstream Open-Source Contributions:**
-  * **[shadcn-ui/ui#12120](https://github.com/shadcn-ui/ui/pull/12120)** — Forwarded `disabled` prop to `TooltipTrigger` in `SidebarMenuButton`.
-  * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957)** — Exported `__iconData` and `__iconNode` across per-icon modules in Svelte.
+* **⚡ [Dine Luxe](https://github.com/ronitgupta138/dine-luxe)** — *High-Concurrency POS & Reservation Engine.* Real-time table lifecycle management, optimistic locking against double-booking, sub-millisecond cache invalidation, and transactional consistency built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
+* **🌐 High-Impact Distributed Systems & Upstream Contributions:**
+  * **[redisson/redisson#7390](https://github.com/redisson/redisson/pull/7390) (MERGED)** — Implemented `RBatch.getMap` variants accepting custom `MapOptions` across sync, reactive, and RxJava batch interfaces.
+  * **[redisson/redisson#7392](https://github.com/redisson/redisson/pull/7392)** — Verified replica sync in `RTransaction` commit to uphold distributed transaction replication quorum.
+  * **[redisson/redisson#7393](https://github.com/redisson/redisson/pull/7393)** — Added native Spring Boot auto-configuration for Sentinel & Cluster `readMode` and `subscriptionMode`.
+  * **[redisson/redisson#7394](https://github.com/redisson/redisson/pull/7394)** — Fixed permanent `RReliableTopic` subscriber stalls on transient write barriers & guarded Lua numeric string formatting.
+  * **[redisson/redisson#7395](https://github.com/redisson/redisson/pull/7395)** — Implemented `RTransaction.getMap` and `getMapCache` overloads accepting `MapOptions` / `MapCacheOptions`.
+  * **[redisson/redisson#7396](https://github.com/redisson/redisson/pull/7396)** — Exposed configurable `topicName` in `RedissonSessionManager` across Tomcat 7, 8, 9, 10, and 11.
+  * **[redisson/redisson#7397](https://github.com/redisson/redisson/pull/7397)** — Extended `AutoCloseable` on `RDestroyable` to unlock standard Java `try-with-resources` resource safety.
+  * **[redis/go-redis#4114](https://github.com/redis/go-redis/pull/4114)** — Bounded OpenTelemetry statement attribute truncation with zero-allocation byte inspection.
+  * **[redis/lettuce#3956](https://github.com/redis/lettuce/pull/3956)** — Bounded `SharedLock` exclusive acquisition spin with Java 8/9+ compatible pause backoff and timeout.
+  * **[redis/lettuce#3953](https://github.com/redis/lettuce/pull/3953)** — Forwarded missing RESP3 command output callbacks in `MultiOutput` and `ReplayOutput`.
+  * **[valkey-io/valkey#4897](https://github.com/valkey-io/valkey/pull/4897)** — Supported `SENTINEL aclfile` command validation.
+  * **[meilisearch/meilisearch#6690](https://github.com/meilisearch/meilisearch/pull/6690)** — Guarded against search permit starvation in similar search worker queue.
+  * **[qdrant/qdrant#11178](https://github.com/qdrant/qdrant/pull/11178)** — Enforced atomic alias collision rejection in vector collection routing.
   * **[juju/juju#23485](https://github.com/juju/juju/pull/23485)** — Added JSON tags and base64 auth field to `dockerconfigjson` in Canonical Juju Kubernetes.
+  * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957)** — Exported `__iconData` and `__iconNode` across per-icon modules in Svelte.
   * **[linuxmint/cinnamon#14021](https://github.com/linuxmint/cinnamon/pull/14021)** — Resolved compositor modal grab leak on window destroy in Linux Mint Cinnamon.
   * **[honojs/hono#5458](https://github.com/honojs/hono/pull/5458)** — Fixed TrieRouter wildcard edge-case routing in Hono.js edge web framework.
-  * **[linuxmint/xed#760](https://github.com/linuxmint/xed/pull/760)** — Explicitly specified Gtk 3.0, Gdk 3.0, and GtkSource 4 typelib versions.
-  * **[linuxmint/hypnotix#434](https://github.com/linuxmint/hypnotix/pull/434)** — Implemented atomic channel logo validation and download in Hypnotix.
-  * **[linuxmint/mintstick#156](https://github.com/linuxmint/mintstick/pull/156)** — Hardened asynchronous ISO verification and mirror handling in MintStick.
+  * **[linuxmint/nemo#3859](https://github.com/linuxmint/nemo/pull/3859)** & **[#3860](https://github.com/linuxmint/nemo/pull/3860)** — Fixed file manager view refresh and selection edge cases in Nemo.
+  * **[linuxmint/warpinator#263](https://github.com/linuxmint/warpinator/pull/263)** — Hardened network payload transfer validation in Warpinator.
 
 ---
 
