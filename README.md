@@ -26,7 +26,7 @@ ronit@workstation:~$ aero doctor --summary
   OS            ::  Aero Linux v1.5.0-Pulsar [Kernel 7.0 / Rolling Edge / Wayland]
   Host / CPU    ::  AMD Ryzen 5 5600H (6C/12T @ 4.2GHz / Low-Latency P-State)
   Memory        ::  15.3 GB Physical [7.5 GB Dynamic zRAM ZSTD In-Memory Compression]
-  Focus         ::  Systems & High-Concurrency Backend Engineering
+  Education     ::  CSBS @ Netaji Subhash Engineering College (2023–2027)
   Core Stack    ::  Rust, TypeScript, Java, Node.js, Spring Boot, PostgreSQL, Redis, C
   Philosophy    ::  "Zero Bloat • First-Principles Depth • Hand-Crafted Code"
 ──────────────────────────────────────────────────────────────────────────
