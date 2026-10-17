@@ -63,9 +63,9 @@ ronit@workstation:~$ aero doctor --summary
   * **Storage & Vector Infrastructure**:
     * **[valkey-io/valkey#4897](https://github.com/valkey-io/valkey/pull/4897)** — Supported `SENTINEL aclfile` command validation.
     * **[meilisearch/meilisearch#6690](https://github.com/meilisearch/meilisearch/pull/6690)** — Guarded against search permit starvation in worker queue.
-    * **[qdrant/qdrant#11178](https://github.com/qdrant/qdrant/pull/11178)** — Enforced atomic alias collision rejection in vector collection routing.
+    * **[resilience4j/resilience4j#2562](https://github.com/resilience4j/resilience4j/pull/2562)** — Exposed detailed RateLimiter metrics in public API for OSGi bundle import.
   * **Linux Desktop & Systems Infrastructure**:
-    * **[linuxmint](https://github.com/linuxmint)** — Compositor modal grab leak fix in **[cinnamon#14021](https://github.com/linuxmint/cinnamon/pull/14021)**, view refresh fixes in **[nemo#3859 & #3860](https://github.com/linuxmint/nemo/pull/3859)**, and payload validation in **[warpinator#263](https://github.com/linuxmint/warpinator/pull/263)**.
+    * **[linuxmint](https://github.com/linuxmint)** — View refresh and keyboard mnemonic fixes in **[nemo#3847, #3859 & #3860](https://github.com/linuxmint/nemo/pull/3859)**, and payload validation in **[warpinator#263](https://github.com/linuxmint/warpinator/pull/263)**.
     * **[juju/juju#23485](https://github.com/juju/juju/pull/23485)** — JSON tags and base64 auth field in Canonical Juju Kubernetes.
     * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957)** — Exported `__iconData` and `__iconNode` per-icon modules in Svelte.
 
