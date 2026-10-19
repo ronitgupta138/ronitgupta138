@@ -52,9 +52,7 @@ ronit@workstation:~$ aero doctor --summary
   * **[redisson/redisson](https://github.com/redisson/redisson)**:
     * **[#7390](https://github.com/redisson/redisson/pull/7390) (MERGED)** & **[#7395](https://github.com/redisson/redisson/pull/7395)** — `RBatch` & `RTransaction` options overloads across sync, reactive, and RxJava interfaces.
     * **[#7392](https://github.com/redisson/redisson/pull/7392)** — Distributed transaction quorum verification (`WAIT` slave replica check on commit).
-    * **[#7393](https://github.com/redisson/redisson/pull/7393)** — Spring Boot auto-configuration for Sentinel & Cluster `readMode` and `subscriptionMode`.
     * **[#7394](https://github.com/redisson/redisson/pull/7394)** — Resilient watchdog renewal & consumer poll loop retry under transient write barriers.
-    * **[#7396](https://github.com/redisson/redisson/pull/7396)** — Configurable pub/sub topic routing in `RedissonSessionManager` across Tomcat 7–11.
     * **[#7397](https://github.com/redisson/redisson/pull/7397)** — Extended `AutoCloseable` on `RDestroyable` for `try-with-resources` safety.
   * **[redis/lettuce](https://github.com/redis/lettuce)**:
     * **[#3956](https://github.com/redis/lettuce/pull/3956)** — Bounded exclusive spin with Java 8/9+ compatible pause backoff and timeout.
