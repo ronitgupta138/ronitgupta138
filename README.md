@@ -58,7 +58,6 @@ ronit@workstation:~$ aero doctor --summary
     * **[#7397](https://github.com/redisson/redisson/pull/7397)** — Extended `AutoCloseable` on `RDestroyable` for `try-with-resources` safety.
   * **[redis/lettuce](https://github.com/redis/lettuce)**:
     * **[#3956](https://github.com/redis/lettuce/pull/3956)** — Bounded exclusive spin with Java 8/9+ compatible pause backoff and timeout.
-    * **[#3953](https://github.com/redis/lettuce/pull/3953)** — Forwarded missing RESP3 command output callbacks in `MultiOutput` and `ReplayOutput`.
   * **[redis/go-redis](https://github.com/redis/go-redis)**:
     * **[#4114](https://github.com/redis/go-redis/pull/4114)** — Bounded OpenTelemetry statement truncation with zero-allocation byte inspection.
   * **Storage & Vector Infrastructure**:
