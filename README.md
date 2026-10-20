@@ -60,7 +60,6 @@ ronit@workstation:~$ aero doctor --summary
     * **[#4114](https://github.com/redis/go-redis/pull/4114)** — Bounded OpenTelemetry statement truncation with zero-allocation byte inspection.
   * **Storage & Vector Infrastructure**:
     * **[valkey-io/valkey#4897 & #4942](https://github.com/valkey-io/valkey/pull/4897)** — Supported `SENTINEL aclfile` command validation & standardized test module cross-thread flags to atomic builtins (#4899).
-    * **[meilisearch/meilisearch#6690](https://github.com/meilisearch/meilisearch/pull/6690)** — Guarded against search permit starvation in worker queue.
     * **[resilience4j/resilience4j#2562](https://github.com/resilience4j/resilience4j/pull/2562)** — Exposed detailed RateLimiter metrics in public API for OSGi bundle import.
   * **Linux Desktop & Systems Infrastructure**:
     * **[ratatui/ratatui#2841](https://github.com/ratatui/ratatui/pull/2841)** — Clipped `List` and `RatatuiLogo` rendering to buffer bounds to prevent out-of-bounds panics.
