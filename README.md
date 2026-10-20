@@ -66,7 +66,7 @@ ronit@workstation:~$ aero doctor --summary
     * **[ratatui/ratatui#2841](https://github.com/ratatui/ratatui/pull/2841)** — Clipped `List` and `RatatuiLogo` rendering to buffer bounds to prevent out-of-bounds panics.
     * **[linuxmint](https://github.com/linuxmint)** — View refresh and keyboard mnemonic fixes in **[nemo#3847, #3859 & #3860](https://github.com/linuxmint/nemo/pull/3859)**, and payload validation in **[warpinator#263](https://github.com/linuxmint/warpinator/pull/263)**.
     * **[juju/juju#23485](https://github.com/juju/juju/pull/23485)** — JSON tags and base64 auth field in Canonical Juju Kubernetes.
-    * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957)** — Exported `__iconData` and `__iconNode` per-icon modules in Svelte.
+    * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957) (MERGED)** — Exported `__iconData` and `__iconNode` per-icon modules in Svelte.
 
 ---
 
