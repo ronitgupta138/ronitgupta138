@@ -59,6 +59,7 @@ ronit@workstation:~$ aero doctor --summary
   * **[redis/go-redis](https://github.com/redis/go-redis)**:
     * **[#4114](https://github.com/redis/go-redis/pull/4114)** — Bounded OpenTelemetry statement truncation with zero-allocation byte inspection.
   * **Storage & Vector Infrastructure**:
+    * **[xerj-org/xerj#1994](https://github.com/xerj-org/xerj/pull/1994)** — Published `vectra-core` in-memory HNSW vector search reference corpus to the public XERJ Corpus Hub.
     * **[valkey-io/valkey#4897 & #4942](https://github.com/valkey-io/valkey/pull/4897)** — Supported `SENTINEL aclfile` command validation & standardized test module cross-thread flags to atomic builtins (#4899).
     * **[resilience4j/resilience4j#2562](https://github.com/resilience4j/resilience4j/pull/2562)** — Exposed detailed RateLimiter metrics in public API for OSGi bundle import.
   * **Linux Desktop & Systems Infrastructure**:
