@@ -64,7 +64,7 @@ ronit@workstation:~$ aero doctor --summary
     * **[valkey-io/valkey#4897 & #4942](https://github.com/valkey-io/valkey/pull/4897)** — Supported `SENTINEL aclfile` command validation & standardized test module cross-thread flags to atomic builtins (#4899).
     * **[resilience4j/resilience4j#2562](https://github.com/resilience4j/resilience4j/pull/2562)** — Exposed detailed RateLimiter metrics in public API for OSGi bundle import.
   * **Linux Desktop & Systems Infrastructure**:
-    * **[ratatui/ratatui#2841 & #2850](https://github.com/ratatui/ratatui/pull/2841)** — Clipped `List` rendering and guarded `Buffer::set_stringn` against out-of-bounds panics on degenerate viewports (#2810).
+    * **[ratatui/ratatui#2850](https://github.com/ratatui/ratatui/pull/2850) (MERGED)** & **[#2841](https://github.com/ratatui/ratatui/pull/2841)** — Guarded `Buffer::set_stringn` against out-of-bounds panics (#2810) & clipped `List` rendering to buffer bounds.
     * **[linuxmint](https://github.com/linuxmint)** — View refresh and keyboard mnemonic fixes in **[nemo#3847, #3859 & #3860](https://github.com/linuxmint/nemo/pull/3859)**, and payload validation in **[warpinator#263](https://github.com/linuxmint/warpinator/pull/263)**.
     * **[juju/juju#23485](https://github.com/juju/juju/pull/23485)** — JSON tags and base64 auth field in Canonical Juju Kubernetes.
     * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957) (MERGED)** — Exported `__iconData` and `__iconNode` per-icon modules in Svelte.
