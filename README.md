@@ -120,11 +120,7 @@ ronit@workstation:~$ aero doctor --summary
 <br/><br/>
 
 <a href="https://github.com/ronitgupta138">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ronitgupta138&show_icons=true&hide_border=true&title_color=00f2fe&icon_color=0891b2&text_color=c9d1d9&bg_color=0a0b0e" alt="GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/ronitgupta138">
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=ronitgupta138&hide_border=true&ring=00f2fe&fire=0891b2&currStreakLabel=00f2fe&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&background=0a0b0e" alt="GitHub Streak" />
+  <img src="https://github-analytics-incog.vercel.app/api?username=ronitgupta138&theme=github_dark" alt="GitHub Analytics Dashboard" width="100%" />
 </a>
 
 </div>
