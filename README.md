@@ -51,6 +51,7 @@ ronit@workstation:~$ aero doctor --summary
 * **🌐 High-Impact Distributed Systems & Upstream Contributions:**
   * **[redisson/redisson](https://github.com/redisson/redisson)**:
     * **[#7390](https://github.com/redisson/redisson/pull/7390) (MERGED)**  &nbsp;&amp;&nbsp;  **[#7395](https://github.com/redisson/redisson/pull/7395)** — `RBatch` & `RTransaction` options overloads across sync, reactive, and RxJava interfaces.
+    * **[#7404](https://github.com/redisson/redisson/pull/7404)** — Prevented `IndexOutOfBoundsException` in `ContainsDecoder` during lock watchdog renewal (#7402).
     * **[#7392](https://github.com/redisson/redisson/pull/7392)** — Distributed transaction quorum verification (`WAIT` slave replica check on commit).
     * **[#7394](https://github.com/redisson/redisson/pull/7394)** — Resilient watchdog renewal & consumer poll loop retry under transient write barriers.
     * **[#7397](https://github.com/redisson/redisson/pull/7397)** — Extended `AutoCloseable` on `RDestroyable` for `try-with-resources` safety.
