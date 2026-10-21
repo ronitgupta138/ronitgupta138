@@ -48,27 +48,12 @@ ronit@workstation:~$ aero doctor --summary
 * **⚡ [FinFlow-Core](https://github.com/ronitgupta138/FinFlow-Core)** — *Enterprise Banking & Financial Aggregation REST Platform.* [[Live API ↗](https://finflow-core.onrender.com)] Built on Spring Boot 3.3, Java 17, Spring Security 6 (stateless JWT authentication), PostgreSQL 16, and Docker. Features multi-tenant isolation, automated scheduled market data ingestion, custom JPQL financial aggregation, and an offline UPI mesh settlement engine (indexed on [XERJ Corpus Hub ↗](https://hub.xerj.org/contributors/ronitgupta138)).
 * **🎙️ [Vox-Intel-Engine](https://github.com/ronitgupta138/Vox-Intel-Engine)** — *Multi-Modal Speech Telemetry & Acoustic DSP AI Engine.* Built with Python 3.11 and FastAPI for real-time speech analytics. Extracts pitch fundamental frequencies via autocorrelation DSP, spectral energy distribution via FFT, and lexical delivery metrics (WPM, filler word density, type-token ratio).
 * **⚡ [Dine-Luxe](https://github.com/ronitgupta138/Dine-Luxe)** — *High-Concurrency POS & Reservation Engine.* [[Live on Vercel ↗](https://dine-luxe.vercel.app)] Real-time table lifecycle management, optimistic locking against double-booking, sub-millisecond cache invalidation, and transactional consistency built with TypeScript, Node.js, Express, Prisma ORM, and PostgreSQL.
-* **🌐 High-Impact Distributed Systems & Upstream Contributions:**
-  * **[redisson/redisson](https://github.com/redisson/redisson)**:
-    * **[#7390](https://github.com/redisson/redisson/pull/7390) (MERGED)**  &nbsp;&amp;&nbsp;  **[#7395](https://github.com/redisson/redisson/pull/7395)** — `RBatch` & `RTransaction` options overloads across sync, reactive, and RxJava interfaces.
-    * **[#7404](https://github.com/redisson/redisson/pull/7404)** — Prevented `IndexOutOfBoundsException` in `ContainsDecoder` during lock watchdog renewal (#7402).
-    * **[#7392](https://github.com/redisson/redisson/pull/7392)** — Distributed transaction quorum verification (`WAIT` slave replica check on commit).
-    * **[#7394](https://github.com/redisson/redisson/pull/7394)** — Resilient watchdog renewal & consumer poll loop retry under transient write barriers.
-    * **[#7397](https://github.com/redisson/redisson/pull/7397)** — Extended `AutoCloseable` on `RDestroyable` for `try-with-resources` safety.
-  * **[redis/lettuce](https://github.com/redis/lettuce)**:
-    * **[#3956](https://github.com/redis/lettuce/pull/3956)** — Bounded exclusive spin with Java 8/9+ compatible pause backoff and timeout (#3880).
-    * **[#3963](https://github.com/redis/lettuce/pull/3963) (MERGED)** — Forwarded `ByteBuffer` errors in `MultiOutput` to preserve error-tolerant command outputs in transactions (#3960).
-  * **[redis/go-redis](https://github.com/redis/go-redis)**:
-    * **[#4114](https://github.com/redis/go-redis/pull/4114)**  &nbsp;&amp;&nbsp;  **[#4189](https://github.com/redis/go-redis/pull/4189)** — Bounded OpenTelemetry statement truncation & Pub/Sub streaming credentials connection cleanup (#4149).
-  * **Storage & Vector Infrastructure**:
-    * **[xerj-org/xerj#1994](https://github.com/xerj-org/xerj/pull/1994)**  &nbsp;&amp;&nbsp;  **[#1995](https://github.com/xerj-org/xerj/pull/1995) (MERGED)** — Published `vectra-core` in-memory HNSW vector search reference corpus to the XERJ Corpus Hub.
-    * **[valkey-io/valkey#4897](https://github.com/valkey-io/valkey/pull/4897)**,&nbsp;  **[#4942](https://github.com/valkey-io/valkey/pull/4942)**  &nbsp;&amp;&nbsp;  **[#4972](https://github.com/valkey-io/valkey/pull/4972)** — Supported `SENTINEL aclfile` command validation, atomic cross-thread test flags (#4899), and replica migration failover candidate selection (#4969).
-    * **[resilience4j/resilience4j#2562](https://github.com/resilience4j/resilience4j/pull/2562)** — Exposed detailed RateLimiter metrics in public API for OSGi bundle import.
-  * **Linux Desktop & Systems Infrastructure**:
-    * **[ratatui/ratatui#2850](https://github.com/ratatui/ratatui/pull/2850) (MERGED)**,&nbsp;  **[#2841](https://github.com/ratatui/ratatui/pull/2841)**  &nbsp;&amp;&nbsp;  **[#2851](https://github.com/ratatui/ratatui/pull/2851)** — Guarded `Buffer::set_stringn` against out-of-bounds panics (#2810) & clipped `List` and `Table` rendering to buffer bounds.
-    * **[linuxmint](https://github.com/linuxmint)** — View refresh and keyboard mnemonic fixes in **[nemo#3847](https://github.com/linuxmint/nemo/pull/3847)**,&nbsp;  **[#3859](https://github.com/linuxmint/nemo/pull/3859)**  &nbsp;&amp;&nbsp;  **[#3860](https://github.com/linuxmint/nemo/pull/3860)**, and payload validation in **[warpinator#263](https://github.com/linuxmint/warpinator/pull/263)**.
-    * **[juju/juju#23485](https://github.com/juju/juju/pull/23485)** — JSON tags and base64 auth field in Canonical Juju Kubernetes.
-    * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957) (MERGED)** — Exported `__iconData` and `__iconNode` per-icon modules in Svelte.
+* **🌐 Merged Upstream Open-Source Contributions:**
+  * **[redis/lettuce#3963](https://github.com/redis/lettuce/pull/3963)** — Preserved per-element error tolerance in `MultiOutput` transactions by forwarding raw `ByteBuffer` errors (#3960).
+  * **[ratatui/ratatui#2850](https://github.com/ratatui/ratatui/pull/2850)** — Guarded `Buffer::set_stringn` against out-of-bounds panics on degenerate terminal viewports (#2810).
+  * **[redisson/redisson#7390](https://github.com/redisson/redisson/pull/7390)** — Added `RBatch.getMap` variants accepting custom `MapOptions` (#6096).
+  * **[xerj-org/xerj#1994 & #1995](https://github.com/xerj-org/xerj/pull/1994)** — Published `vectra-core` in-memory HNSW vector search reference corpus to the XERJ Corpus Hub and signed in-repo CLA.
+  * **[lucide-icons/lucide#4957](https://github.com/lucide-icons/lucide/pull/4957)** — Exported `__iconData` and `__iconNode` across per-icon modules in `@lucide/svelte` (#4936).
 
 ---
 
