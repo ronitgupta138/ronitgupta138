@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0e,100:00f2fe&height=210&section=header&text=Ronit%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Distributed%20Backend%20Engineer&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0e,100:00f2fe&height=210&section=header&text=Ronit%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20and%20Distributed%20Backend%20Engineer&descAlignY=62&descAlign=50" width="100%"/>
 
 <a href="https://github.com/ronitgupta138">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Systems+%26+Distributed+Backend+Engineer;Building+Lean%2C+High-Throughput+Engines;Linux+Internals+%E2%80%A2+Concurrency+%E2%80%A2+Low-Latency;Hand-Crafted+Code+from+First+Principles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Systems+and+Distributed+Backend+Engineer;Building+Lean%2C+High-Throughput+Engines;Linux+Internals+%E2%80%A2+Concurrency+%E2%80%A2+Low-Latency;Hand-Crafted+Code+from+First+Principles" alt="Typing SVG" />
 </a>
 
 <br/>
