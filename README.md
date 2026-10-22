@@ -63,8 +63,9 @@ ronit@workstation:~$ aero doctor --summary
 | **[`redis/lettuce#3963`](https://github.com/redis/lettuce/pull/3963)** | Java / Core Redis Driver | Forwarded raw `ByteBuffer` errors in `MultiOutput` to preserve per-element error tolerance in transactions (#3960) | `MERGED` |
 | **[`ratatui/ratatui#2850`](https://github.com/ratatui/ratatui/pull/2850)** | Rust / Terminal Systems | Guarded `Buffer::set_stringn` against out-of-bounds panics on degenerate terminal viewports (#2810) | `MERGED` |
 | **[`redisson/redisson#7390`](https://github.com/redisson/redisson/pull/7390)** | Java / Distributed Storage | Added `RBatch.getMap` variants accepting custom `MapOptions` (#6096) | `MERGED` |
-| **[`xerj-org/xerj#1994 & #1995`](https://github.com/xerj-org/xerj/pull/1994)** | AI Indexing & Search Engine | Contributed `Vectra-Core` in-memory HNSW reference corpus & signed in-repo CLA | `MERGED` |
 | **[`juju/juju#23485`](https://github.com/juju/juju/pull/23485)** | Go / Canonical Cloud & K8s | Standardized lowercase JSON struct tags on `DockerConfigEntry` | `MERGED` |
+| **[`xerj-org/xerj#1994`](https://github.com/xerj-org/xerj/pull/1994)** | AI Indexing & Search Engine | Contributed `Vectra-Core` Java 21 Loom in-memory HNSW vector search reference corpus | `MERGED` |
+| **[`xerj-org/xerj#1995`](https://github.com/xerj-org/xerj/pull/1995)** | Developer Tooling & Ecosystem | Signed XERJ Contributor License Agreement (CLA) via `.contributors` | `MERGED` |
 | **[`lucide-icons/lucide#4957`](https://github.com/lucide-icons/lucide/pull/4957)** | TypeScript / Frontend Framework | Exported `__iconData` and `__iconNode` per-icon geometry modules in `@lucide/svelte` (#4936) | `MERGED` |
 
 ---
